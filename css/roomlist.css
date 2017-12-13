@@ -1,0 +1,27 @@
+.header {
+	height: 50px;
+	overflow: hidden;
+}
+
+.logo {
+	float: left;
+}
+
+.logo img {
+	height: 50px;
+}
+
+.blank {
+	float: left;
+	white-space: pre;
+}
+
+.searching_box {
+	float: left;
+	line-height: 50px;
+}
+
+.roomlist {
+	margin-top: 60px;
+	margin-left: 20px;
+}
